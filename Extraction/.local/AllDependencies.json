@@ -1729,9 +1729,9 @@
     "restore": {
       "projectUniqueName": "Extraction",
       "projectName": "Extraction",
-      "projectPath": "C:\\Users\\Soundarya\\Documents\\UiPath\\Extraction\\.local",
+      "projectPath": "C:\\Users\\Soundarya\\Desktop\\RPA Training\\RPA\\RPA-Training\\Extraction\\.local",
       "packagesPath": "C:\\Users\\Soundarya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Soundarya\\Documents\\UiPath\\Extraction\\.local"
+      "outputPath": "C:\\Users\\Soundarya\\Desktop\\RPA Training\\RPA\\RPA-Training\\Extraction\\.local"
     },
     "frameworks": {
       "net461": {
